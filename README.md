@@ -1,6 +1,7 @@
 Continuous Integration Demo
 ============================
 [![Python application](https://github.com/premepreme/demo-pyci/actions/workflows/python-app.yml/badge.svg)](https://github.com/premepreme/demo-pyci/actions/workflows/python-app.yml)
+[![codecov](https://codecov.io/gh/premepreme/demo-pyci/branch/main/graph/badge.svg?token=9WC0WIFH5E)](https://codecov.io/gh/premepreme/demo-pyci)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 Create a repository on Github, then use Github Actions to build and test it.
